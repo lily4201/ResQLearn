@@ -12,5 +12,5 @@ In the CIS Hackathon, we tackled the issue of the lack of emergency knowledge ta
 ## Video
 https://github.com/lily4201/ResQLearn/assets/94894977/5f16e60e-6353-406e-b93e-bd6cee7e21b2
 
-
-
+## Presentation Slideshow
+[Codeherlics - ResQLearn.pdf](https://github.com/lily4201/ResQLearn/files/15479143/Codeherlics.-.ResQLearn.pdf)
